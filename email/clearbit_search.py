@@ -1,3 +1,7 @@
+# CLEARBIT EMAİL SEARCH v0.0.1
+# Prepared by Muhammed Batuhan Aydın.
+# Please issue an issue or contact me via info@batuhanaydn.com for development, ideas or requests.
+
 import requests
 
 def clearbit_email_search(email, api_key):
