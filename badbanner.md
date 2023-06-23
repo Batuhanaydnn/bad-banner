@@ -1,0 +1,1 @@
+Bad banners not designed yet how about sending one
